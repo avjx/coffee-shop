@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.coffee_shop"},{"l":"com.mycompany.coffee_shop.controller"},{"l":"com.mycompany.coffee_shop.dao"},{"l":"com.mycompany.coffee_shop.model"},{"l":"com.mycompany.coffee_shop.util"},{"l":"com.mycompany.coffee_shop.view"}];updateSearchResults();

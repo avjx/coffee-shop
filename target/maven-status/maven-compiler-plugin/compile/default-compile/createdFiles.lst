@@ -1,0 +1,6 @@
+com\mycompany\coffee_shop\dao\ItemDAO.class
+com\mycompany\coffee_shop\view\MainView.class
+com\mycompany\coffee_shop\util\MongoConnection.class
+com\mycompany\coffee_shop\Main.class
+com\mycompany\coffee_shop\controller\ItemController.class
+com\mycompany\coffee_shop\model\Item.class

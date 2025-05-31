@@ -1,0 +1,55 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/rafae/.m2/repository/org/mongodb/mongodb-driver-sync/4.11.0/mongodb-driver-sync-4.11.0.jar;C:/Users/rafae/.m2/repository/org/mongodb/bson/4.11.0/bson-4.11.0.jar;C:/Users/rafae/.m2/repository/org/mongodb/mongodb-driver-core/4.11.0/mongodb-driver-core-4.11.0.jar;C:/Users/rafae/.m2/repository/org/slf4j/slf4j-simple/2.0.13/slf4j-simple-2.0.13.jar;C:/Users/rafae/.m2/repository/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/rafae/Documents/NetBeansProjects/coffee_shop/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rafae/Documents/NetBeansProjects/coffee_shop/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'coffee_shop 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'coffee_shop 1.0-SNAPSHOT API'
+com.mycompany.coffee_shop.controller
+com.mycompany.coffee_shop.dao
+com.mycompany.coffee_shop
+com.mycompany.coffee_shop.model
+com.mycompany.coffee_shop.util
+com.mycompany.coffee_shop.view
+C:\Users\rafae\.m2\repository\org\mongodb\mongodb-driver-sync\4.11.0\mongodb-driver-sync-4.11.0.jar = 1748045373124
+C:\Users\rafae\.m2\repository\org\mongodb\bson\4.11.0\bson-4.11.0.jar = 1748045373200
+C:\Users\rafae\.m2\repository\org\mongodb\mongodb-driver-core\4.11.0\mongodb-driver-core-4.11.0.jar = 1748045373289
+C:\Users\rafae\.m2\repository\org\slf4j\slf4j-simple\2.0.13\slf4j-simple-2.0.13.jar = 1748047089963
+C:\Users\rafae\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar = 1748047090027
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\src\main\java = 1748042849361
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\allclasses-index.html = 1748656504333
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\allpackages-index.html = 1748656504336
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\element-list = 1748656504181
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\help-doc.html = 1748656504365
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\index-all.html = 1748656504356
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\index.html = 1748656504321
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\member-search-index.js = 1748656504340
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\module-search-index.js = 1748656504337
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\overview-summary.html = 1748656504362
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\overview-tree.html = 1748656504317
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\package-search-index.js = 1748656504338
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\search.html = 1748656504359
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\serialized-form.html = 1748656504263
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\tag-search-index.js = 1748656504342
+C:\Users\rafae\Documents\NetBeansProjects\coffee_shop\target\reports\apidocs\type-search-index.js = 1748656504339
