@@ -22,7 +22,7 @@ public class ItemDAO {
      * Construtor privado para implementar o padrão Singleton.
      */
     private ItemDAO() {
-        MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017"); // ajuste se necessário
+        MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
         MongoDatabase database = mongoClient.getDatabase("coffee_shop_db");
         collection = database.getCollection("itens");
     }

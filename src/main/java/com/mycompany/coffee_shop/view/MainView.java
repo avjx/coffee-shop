@@ -152,7 +152,7 @@ public class MainView extends JFrame {
 
            atualizarTabela();
            limparCampos();
-           tabbedPane.setSelectedIndex(1); // Volta para aba de listagem
+           tabbedPane.setSelectedIndex(1);
 
        } catch (NumberFormatException ex) {
            JOptionPane.showMessageDialog(this, "Quantidade e Valor devem ser números válidos.", "Erro", JOptionPane.ERROR_MESSAGE);
