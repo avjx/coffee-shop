@@ -28,7 +28,7 @@ O projeto aplica o padrão Singleton para o controlador de dados e utiliza o dri
 
 ## Banco de Dados - MongoDB
 
-- Banco: `coffee_shop`
+- Banco: `coffee_shop_db`
 - Coleção: `itens`
 - Documentos com a estrutura:
 
