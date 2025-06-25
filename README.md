@@ -34,9 +34,9 @@ O projeto aplica o padrão Singleton para o controlador de dados e utiliza o dri
 
 ```json
 {
-  "id_item": "string",        // Código único do item (ex: "A123")
-  "nome": "string",           // Nome do produto (ex: "Café Expresso")
-  "quantidade": int,          // Quantidade em estoque (ex: 20)
-  "valor": double,            // Preço do item (ex: 12.50)
-  "foto": "string"            // URL ou caminho relativo da foto (ex: "images/cafe.png")
+  "id_item": "string",        //" Código único do item (ex: "A123")
+  "nome": "string",           //" Nome do produto (ex: "Café Expresso")
+  "quantidade": int,          //" Quantidade em estoque (ex: 20)
+  "valor": double,            //" Preço do item (ex: 12.50)
+  "foto": "string"            //" URL ou caminho relativo da foto (ex: "images/cafe.png")
 }
